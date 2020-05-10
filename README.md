@@ -6,3 +6,5 @@
 - [warp] Examples for `warp`
 - [federation] Examples for `Federation`
 - [tide] Examples for `tide`
+- [SIMPLE] Examples for GIT
+
